@@ -6,4 +6,5 @@ We will be ulilizing AWS code pipeline, Github, and Codedeploy.
 ### Prerequisites 
 AWS account and IAM user Website files (HTML, CSS) GitHub Account
 
+## Step 1: Create a new repository in GitHub and upload Website files.
 
